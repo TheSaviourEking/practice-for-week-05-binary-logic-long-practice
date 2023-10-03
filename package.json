@@ -1,0 +1,15 @@
+{
+  "name": "practice-for-week-05-binary-logic-long-practice",
+  "version": "1.0.0",
+  "description": "To warm up, you will be converting integers between different bases and from `ASCII` and `binary` in the `1-base-conversions` directory. Following this, test your logic skills by filling out some truth tables in the `2-truthTables` directory.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
